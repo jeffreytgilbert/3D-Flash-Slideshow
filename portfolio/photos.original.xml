@@ -1,0 +1,43 @@
+<albums>
+	<album title="Nature">
+		<photo src="portfolio/Nature/IMG_0113.JPG" showEveryPixel="false">Brambles</photo>
+		<photo src="portfolio/Nature/IMG_0118.JPG" showEveryPixel="false">Hot Dogs, Warm Days, Cold Beers</photo>
+		<photo src="portfolio/Nature/IMG_0914.JPG" showEveryPixel="false">Light Eater</photo>
+		<photo src="portfolio/Nature/IMG_1088.JPG" showEveryPixel="false">Skylight</photo>
+		<photo src="portfolio/Nature/IMG_9812.JPG" showEveryPixel="true">Lights Out</photo>
+		<photo src="portfolio/Nature/IMG_9912.JPG" showEveryPixel="false">Yellow Tux</photo>
+	</album>
+	<album title="Snapshots">
+		<photo src="portfolio/Snaps/IMG_0104.JPG" showEveryPixel="false">The Tango</photo>
+		<photo src="portfolio/Snaps/IMG_0788.JPG" showEveryPixel="false">Express</photo>
+	</album>
+	<album title="Critters">
+		<photo src="portfolio/Joseph/IMG_1889.JPG" showEveryPixel="false">Bed Intruder</photo>
+	</album>
+	<album title="Jeffrey">
+		<photo src="portfolio/Jeff/IMG_0817.JPG" showEveryPixel="false">Snooze</photo>
+		<photo src="portfolio/Jeff/IMG_0898.JPG" showEveryPixel="true">Idol</photo>
+		<photo src="portfolio/Jeff/IMG_0989.JPG" showEveryPixel="false">Attention</photo>
+	</album>
+	<album title="Domminick">
+		<photo src="portfolio/Dom/IMG_0280.JPG" showEveryPixel="false">Kisser</photo>
+		<photo src="portfolio/Dom/IMG_0589.JPG" showEveryPixel="false">Nook</photo>
+		<photo src="portfolio/Dom/IMG_0732.JPG" showEveryPixel="false">Sugar Crash</photo>
+		<photo src="portfolio/Dom/IMG_0770.JPG" showEveryPixel="false">Vigilante</photo>
+		<photo src="portfolio/Dom/IMG_9920.JPG" showEveryPixel="false">Face Time</photo>
+		<photo src="portfolio/Dom/IMG_1756.JPG" showEveryPixel="false">Joy</photo>
+		<photo src="portfolio/Dom/IMG_9925.JPG" showEveryPixel="true">Iron Giant</photo>
+		<photo src="portfolio/Dom/IMG00223.JPG" showEveryPixel="false">Helmet</photo>
+	</album>
+	<album title="Lindsey">
+		<photo src="portfolio/Lindsey/IMG_0741.JPG" showEveryPixel="false">Depth of Feel</photo>
+		<photo src="portfolio/Lindsey/IMG_0745.JPG" showEveryPixel="false">Snoopy</photo>
+		<photo src="portfolio/Lindsey/IMG_0923.JPG" showEveryPixel="false">Free Throw</photo>
+		<photo src="portfolio/Lindsey/IMG_0938.JPG" showEveryPixel="false">Pulse</photo>
+		<photo src="portfolio/Lindsey/IMG_0985.JPG" showEveryPixel="false">Fool</photo>
+		<photo src="portfolio/Lindsey/IMG_1473.JPG" showEveryPixel="true">War-drobe</photo>
+		<photo src="portfolio/Lindsey/IMG_9762.JPG" showEveryPixel="false">Brownout</photo>
+		<photo src="portfolio/Lindsey/IMG_9831.JPG" showEveryPixel="false">Pure</photo>
+		<photo src="portfolio/Lindsey/IMG_9869.JPG" showEveryPixel="false">Troubled Waters</photo>
+	</album>
+</albums>

@@ -1,0 +1,24 @@
+﻿3d-test.swf Movie Report
+-------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+       698    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS5</xmp:CreatorTool> <xmp:CreateDate>2011-06-25T17:41:34-05:00</xmp:CreateDate> <xmp:MetadataDate>2011-09-08T17:51:53-05:00</xmp:MetadataDate> <xmp:ModifyDate>2011-09-08T17:51:53-05:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:C9BABEFD102068118083CA8DF67576DA</stRef:instanceID> <stRef:documentID>xmp.did:D5AFA5C06F2068118083B2B2990E2F76</stRef:documentID> <stRef:originalDocumentID>xmp.did:D5AFA5C06F2068118083B2B2990E2F76</stRef:originalDocumentID> </xmpMM:DerivedFrom> <xmpMM:DocumentID>xmp.did:CEBABEFD102068118083CA8DF67576DA</xmpMM:DocumentID> <xmpMM:InstanceID>xmp.iid:CEBABEFD102068118083CA8DF67576DA</xmpMM:InstanceID> <xmpMM:OriginalDocumentID>xmp.did:D5AFA5C06F2068118083B2B2990E2F76</xmpMM:OriginalDocumentID> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1           9364           9364    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                  8611
+
+ActionScript Bytes    Location
+------------------    --------
+              8611    Scene 1:Frame 1
+
+
+
+

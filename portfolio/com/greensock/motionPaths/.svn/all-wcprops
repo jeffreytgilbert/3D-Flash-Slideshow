@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/6/trunk/portfolio/com/greensock/motionPaths
+END
+Direction.as
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/6/trunk/portfolio/com/greensock/motionPaths/Direction.as
+END
+MotionPath.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/6/trunk/portfolio/com/greensock/motionPaths/MotionPath.as
+END
+CirclePath2D.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/6/trunk/portfolio/com/greensock/motionPaths/CirclePath2D.as
+END
+PathFollower.as
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/6/trunk/portfolio/com/greensock/motionPaths/PathFollower.as
+END
+RectanglePath2D.as
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/6/trunk/portfolio/com/greensock/motionPaths/RectanglePath2D.as
+END
+LinePath2D.as
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/6/trunk/portfolio/com/greensock/motionPaths/LinePath2D.as
+END
